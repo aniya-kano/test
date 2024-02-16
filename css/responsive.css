@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+@media screen and ( max-width:720px )
+{
+#box{
+	display: none;
+}
+
+.respondive{
+        width: 100%;
+    }
+}
